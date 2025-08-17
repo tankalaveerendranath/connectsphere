@@ -25,8 +25,11 @@
 +    interests: ['Technology', 'Social Media', 'Networking'],
 +    skills: ['Communication', 'Social Networking']
 +  };
-+
+
    const users: User[] = [
 +    demoUser,
      {
        id: '1',
+    }
+  ];
+};
